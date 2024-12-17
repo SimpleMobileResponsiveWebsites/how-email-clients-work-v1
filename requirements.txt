@@ -1,0 +1,34 @@
+# Python Version
+python==3.10
+
+# Core Streamlit requirements
+streamlit==1.27.0
+
+# Data manipulation and analysis
+pandas>=1.3.0
+numpy>=1.21.0
+
+# Machine Learning (if applicable)
+scikit-learn>=1.0.2
+
+# Visualization
+matplotlib>=3.5.0
+seaborn>=0.11.2
+plotly>=5.5.0
+
+# Data handling (if needed)
+openpyxl>=3.0.9  # For Excel files
+xlrd>=2.0.1  # For reading older Excel files
+
+# Database connectivity (if you're connecting to a database)
+SQLAlchemy>=1.4.0
+psycopg2-binary>=2.9.3  # PostgreSQL
+
+# For API calls or web scraping
+requests>=2.26.0
+
+# Utility for environment variables
+python-dotenv>=0.19.0
+
+# For enhancing Streamlit apps
+streamlit-option-menu>=0.3.2
