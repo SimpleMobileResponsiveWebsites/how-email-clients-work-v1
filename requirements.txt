@@ -1,5 +1,5 @@
 # Python Version
-python==3.10
+# python==3.10
 
 # Core Streamlit requirements
 streamlit==1.27.0
