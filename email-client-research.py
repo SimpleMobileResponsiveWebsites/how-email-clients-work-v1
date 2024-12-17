@@ -1,5 +1,3 @@
-# how-email-clients-work-v1
-
 import streamlit as st
 
 def set_page():
